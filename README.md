@@ -1,3 +1,5 @@
+## Note: This Script remains untested fully because the Groq Endpoint was continiously giving 503 errors. Sorry for any inconvenience caused. Because of this, I was unable to finish certain features.
+
 # Research Workflow Automation
 
 This project automates the process of conducting research by breaking down queries into smaller questions, searching the web for relevant information, validating results, and generating structured research reports. It leverages tools like vector stores, embeddings, and language models to streamline the workflow.
@@ -70,26 +72,6 @@ The workflow will:
 - [Jina AI](https://jina.ai/)
 - DuckDuckGo Search API
 
-## Contributing
-
-1. Fork the repository.
-2. Create a new branch:
-   ```bash
-   git checkout -b feature-name
-   ```
-3. Commit your changes:
-   ```bash
-   git commit -m "Add feature-name"
-   ```
-4. Push to your branch:
-   ```bash
-   git push origin feature-name
-   ```
-5. Open a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for details.
 
 ## Acknowledgments
 
